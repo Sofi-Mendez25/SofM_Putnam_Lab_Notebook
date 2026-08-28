@@ -4,6 +4,8 @@ I believe the scientific endeavor is best served by transparent and reproducible
 
 My notebook documents thoughts, analyses, knowledge gains, roadblocks, detours, and products. My goal is to facilitate scientific advancement through the open sharing of data and analytical approaches. As with science, this notebook is a work in process, hopefully advancing with every iteration. 
 
+Currently starting my 2nd year as a PhD student in Putnam's lab, getting ready for my first coral larvae experiments, committed to document every step of the process and share it with the scientific community.
+
 The notebook is platformed on GitHub and is directly linked to GitHub repositories that contain further details than will be presented in notebook posts. The notebook and repositories are dynamic real-time documents.
 
 
