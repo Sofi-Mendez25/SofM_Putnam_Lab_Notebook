@@ -38,9 +38,9 @@ Date|Position| Affiliation
 :---:|:---:|:---:
 2025 - current | **PhD Student, Evolution and Marine Biology** | University of Rhode Island, Kingston, RI
 2017-2020 |	**MSc, Marine Biology** | Northwestern Center for Biological Research, S.C. - CIBNOR, La Paz, B.C.S. México
-- | Thesis | Differential gene expression of Cladocopium sp, in two corals of the Gulf of California. 
-2009-2013 |	BSc Biology| San Carlos University, Guatemala
-- | Thesis | Genetic diversity of endosymbiotic dinoflagellates in the coral Porites panamensis, Eastern Tropical Pacific
+2009-2013 |	**BSc Biology** |  San Carlos University, Guatemala
+- |Master  Thesis | Differential gene expression of Cladocopium sp, in two corals of the Gulf of California. 
+- |Bachelor Thesis | Genetic diversity of endosymbiotic dinoflagellates in the coral Porites panamensis, Eastern Tropical Pacific
 
 ### PUBLICATIONS 
 
