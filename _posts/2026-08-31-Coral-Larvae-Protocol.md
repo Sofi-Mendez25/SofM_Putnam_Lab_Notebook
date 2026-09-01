@@ -1,10 +1,3 @@
----
-layout: post
-title: "Florida coral larvae_morphological stages"
-date: '2026-08-31'
-categories: Preliminary experiment, coral larvae competency, 
-tags: [coral-larvae, competency]
----
 
 ** This protocol integrates and adapt methods from [Mass et al., 2016](https://doi.org/10.1098/rspb.2016.0322) and [Huffmyer Larval settlement 2021 protocol](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Larval-Settlement-Mcapitata-June-2021/), for the context of this pre-liminary experiment
 
@@ -26,3 +19,4 @@ o	Driller and drill bits.
 3. Prepare the incubator to set up lights inside, drill a hole in the left or right side wall of the incubator. The hole has to be big enough 
 
 
+![](../images/Spawning%20goodOne%20La%20magia.JPG)
